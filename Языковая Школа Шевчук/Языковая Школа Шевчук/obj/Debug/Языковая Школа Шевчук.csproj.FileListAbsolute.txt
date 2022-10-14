@@ -1,0 +1,48 @@
+C:\Users\Student\Desktop\Языковая Школа Шевчук\Языковая Школа Шевчук\bin\Debug\Языковая Школа Шевчук.exe.config
+C:\Users\Student\Desktop\Языковая Школа Шевчук\Языковая Школа Шевчук\bin\Debug\Языковая Школа Шевчук.exe
+C:\Users\Student\Desktop\Языковая Школа Шевчук\Языковая Школа Шевчук\bin\Debug\Языковая Школа Шевчук.pdb
+C:\Users\Student\Desktop\Языковая Школа Шевчук\Языковая Школа Шевчук\obj\Debug\Языковая Школа Шевчук.csproj.AssemblyReference.cache
+C:\Users\Student\Desktop\Языковая Школа Шевчук\Языковая Школа Шевчук\obj\Debug\Языковая Школа Шевчук.csproj.SuggestedBindingRedirects.cache
+C:\Users\Student\Desktop\Языковая Школа Шевчук\Языковая Школа Шевчук\obj\Debug\MainWindow.g.cs
+C:\Users\Student\Desktop\Языковая Школа Шевчук\Языковая Школа Шевчук\obj\Debug\App.g.cs
+C:\Users\Student\Desktop\Языковая Школа Шевчук\Языковая Школа Шевчук\obj\Debug\Языковая Школа Шевчук_MarkupCompile.cache
+C:\Users\Student\Desktop\Языковая Школа Шевчук\Языковая Школа Шевчук\obj\Debug\Языковая Школа Шевчук_MarkupCompile.lref
+C:\Users\Student\Desktop\Языковая Школа Шевчук\Языковая Школа Шевчук\obj\Debug\MainWindow.baml
+C:\Users\Student\Desktop\Языковая Школа Шевчук\Языковая Школа Шевчук\obj\Debug\Языковая Школа Шевчук.g.resources
+C:\Users\Student\Desktop\Языковая Школа Шевчук\Языковая Школа Шевчук\obj\Debug\Языковая_Школа_Шевчук.Properties.Resources.resources
+C:\Users\Student\Desktop\Языковая Школа Шевчук\Языковая Школа Шевчук\obj\Debug\Языковая Школа Шевчук.csproj.GenerateResource.cache
+C:\Users\Student\Desktop\Языковая Школа Шевчук\Языковая Школа Шевчук\obj\Debug\Языковая Школа Шевчук.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\Языковая Школа Шевчук\Языковая Школа Шевчук\obj\Debug\Языковая Школа Шевчук.exe
+C:\Users\Student\Desktop\Языковая Школа Шевчук\Языковая Школа Шевчук\obj\Debug\Языковая Школа Шевчук.pdb
+C:\Users\Student\Desktop\Языковая Школа Шевчук\Языковая Школа Шевчук\obj\Debug\Frames\Admin.g.cs
+C:\Users\Student\Desktop\Языковая Школа Шевчук\Языковая Школа Шевчук\obj\Debug\Frames\login.g.cs
+C:\Users\Student\Desktop\Языковая Школа Шевчук\Языковая Школа Шевчук\obj\Debug\Frames\Admin.baml
+C:\Users\Student\Desktop\Языковая Школа Шевчук\Языковая Школа Шевчук\obj\Debug\Frames\login.baml
+C:\Users\Student\Desktop\Языковая Школа Шевчук\Языковая Школа Шевчук\obj\Debug\Frames\Quest.g.cs
+C:\Users\Student\Desktop\Языковая Школа Шевчук\Языковая Школа Шевчук\obj\Debug\Frames\Quest.baml
+C:\Users\Student\Desktop\Языковая Школа Шевчук\Языковая Школа Шевчук\obj\Debug\Frames\Change.g.cs
+C:\Users\Student\Desktop\Языковая Школа Шевчук\Языковая Школа Шевчук\obj\Debug\Frames\Change.baml
+C:\Users\user\Desktop\Языковая Школа Шевчук\Языковая Школа Шевчук\bin\Debug\Языковая Школа Шевчук.exe.config
+C:\Users\user\Desktop\Языковая Школа Шевчук\Языковая Школа Шевчук\bin\Debug\Языковая Школа Шевчук.exe
+C:\Users\user\Desktop\Языковая Школа Шевчук\Языковая Школа Шевчук\bin\Debug\Языковая Школа Шевчук.pdb
+C:\Users\user\Desktop\Языковая Школа Шевчук\Языковая Школа Шевчук\obj\Debug\Языковая Школа Шевчук.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Языковая Школа Шевчук\Языковая Школа Шевчук\obj\Debug\Языковая Школа Шевчук.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\Языковая Школа Шевчук\Языковая Школа Шевчук\obj\Debug\Frames\Admin.g.cs
+C:\Users\user\Desktop\Языковая Школа Шевчук\Языковая Школа Шевчук\obj\Debug\Frames\Change.g.cs
+C:\Users\user\Desktop\Языковая Школа Шевчук\Языковая Школа Шевчук\obj\Debug\Frames\login.g.cs
+C:\Users\user\Desktop\Языковая Школа Шевчук\Языковая Школа Шевчук\obj\Debug\Frames\Quest.g.cs
+C:\Users\user\Desktop\Языковая Школа Шевчук\Языковая Школа Шевчук\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\Языковая Школа Шевчук\Языковая Школа Шевчук\obj\Debug\App.g.cs
+C:\Users\user\Desktop\Языковая Школа Шевчук\Языковая Школа Шевчук\obj\Debug\Языковая Школа Шевчук_MarkupCompile.cache
+C:\Users\user\Desktop\Языковая Школа Шевчук\Языковая Школа Шевчук\obj\Debug\Языковая Школа Шевчук_MarkupCompile.lref
+C:\Users\user\Desktop\Языковая Школа Шевчук\Языковая Школа Шевчук\obj\Debug\Frames\Admin.baml
+C:\Users\user\Desktop\Языковая Школа Шевчук\Языковая Школа Шевчук\obj\Debug\Frames\Change.baml
+C:\Users\user\Desktop\Языковая Школа Шевчук\Языковая Школа Шевчук\obj\Debug\Frames\login.baml
+C:\Users\user\Desktop\Языковая Школа Шевчук\Языковая Школа Шевчук\obj\Debug\Frames\Quest.baml
+C:\Users\user\Desktop\Языковая Школа Шевчук\Языковая Школа Шевчук\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\Языковая Школа Шевчук\Языковая Школа Шевчук\obj\Debug\Языковая Школа Шевчук.g.resources
+C:\Users\user\Desktop\Языковая Школа Шевчук\Языковая Школа Шевчук\obj\Debug\Языковая_Школа_Шевчук.Properties.Resources.resources
+C:\Users\user\Desktop\Языковая Школа Шевчук\Языковая Школа Шевчук\obj\Debug\Языковая Школа Шевчук.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Языковая Школа Шевчук\Языковая Школа Шевчук\obj\Debug\Языковая Школа Шевчук.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Языковая Школа Шевчук\Языковая Школа Шевчук\obj\Debug\Языковая Школа Шевчук.exe
+C:\Users\user\Desktop\Языковая Школа Шевчук\Языковая Школа Шевчук\obj\Debug\Языковая Школа Шевчук.pdb
